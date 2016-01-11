@@ -21,10 +21,10 @@ TOKEN="xxxxxxx-xxxxxxx-xxxxxxxx-xxxxxxxx"
 ```
 
 ### コマンド
-第一引数に対象となるfile_pathを指定してください。
+第一引数に対象となるfile pathを指定してください。
 
 ```
-python slackbot/slack_bot.py file_path
+python slackbot/slack_bot.py "file/to/path"
 ```
 
 ***
